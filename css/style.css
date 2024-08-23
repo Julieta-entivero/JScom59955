@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@500;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 200;
+}
+
+.titulo{
+    font-size: 2.5rem;
+    background-color: #8a61b9;
+    padding: 0 0.4rem;
+    font-style: bold;
+    font-weight: 500;
+}
+.titulo2{
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+}
